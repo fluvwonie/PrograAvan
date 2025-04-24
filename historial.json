@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1744858885,
+    "fecha": "2025-04-16 21:01:25",
+    "cliente": "Fati",
+    "items": [
+      "Cafe Latte - $25",
+      "Chai - $20"
+    ],
+    "personalizaciones": [
+      "Leche: Entera | Az\u00facar: Normal | Extra: Crema batida",
+      "Leche: Sin leche | Az\u00facar: Normal | Extra: Caliente"
+    ],
+    "total": 45.0,
+    "estado": "pagado",
+    "pago": true,
+    "fecha_finalizacion": "2025-04-22 23:17:33"
+  },
+  {
+    "id": 1745265722,
+    "fecha": "2025-04-21 14:02:02",
+    "cliente": "Fati",
+    "items": [
+      "Cafe - $15",
+      "Cafe americano - $20"
+    ],
+    "personalizaciones": [
+      "Az\u00facar: Normal",
+      "Az\u00facar: Normal"
+    ],
+    "total": 35.0,
+    "estado": "pagado",
+    "pago": true,
+    "fecha_finalizacion": "2025-04-22 23:17:35"
+  },
+  {
+    "id": 1745265950,
+    "fecha": "2025-04-21 14:05:50",
+    "cliente": "Jaime",
+    "items": [
+      "Chai - $20",
+      "Cafe Latte - $25"
+    ],
+    "personalizaciones": [
+      "Leche: Sin leche | Az\u00facar: Normal | Extra: Caliente",
+      "Leche: Entera | Az\u00facar: Normal | Extra: Crema batida"
+    ],
+    "total": 45.0,
+    "estado": "cancelado",
+    "pago": true,
+    "fecha_finalizacion": "2025-04-22 23:17:41"
+  },
+  {
+    "id": 1745443219,
+    "fecha": "2025-04-23 15:20:19",
+    "cliente": "Alejandro",
+    "items": [
+      "Cafe americano - $20",
+      "Cafe Latte - $25",
+      "Cafe - $15",
+      "Cafe americano - $20"
+    ],
+    "personalizaciones": [
+      "Az\u00facar: Normal",
+      "Leche: Almendra | Az\u00facar: Stevia | Extra: Crema batida",
+      "Az\u00facar: Normal",
+      "Az\u00facar: Poca"
+    ],
+    "total": 80.0,
+    "estado": "pagado",
+    "pago": false,
+    "fecha_finalizacion": "2025-04-23 15:21:33"
+  },
+  {
+    "id": 1745448586,
+    "fecha": "2025-04-23 16:49:46",
+    "cliente": "Yohan",
+    "items": [
+      "Cafe americano - $20",
+      "Te Matcha - $27",
+      "Pan Frances - $35",
+      "Sandwich de queso - $26",
+      "Pastel - $27",
+      "Pastel - $27"
+    ],
+    "personalizaciones": [
+      "Az\u00facar: Normal",
+      "Leche: Sin leche | Az\u00facar: Normal | Extra: Frio",
+      "Az\u00facar: Poca | Extra: Frutas"
+    ],
+    "total": 162.0,
+    "estado": "pagado",
+    "pago": false,
+    "fecha_finalizacion": "2025-04-23 16:56:30"
+  },
+  {
+    "id": 1745449236,
+    "fecha": "2025-04-23 17:00:36",
+    "cliente": "Pepe",
+    "items": [
+      "Cafe Latte - $25",
+      "Sandwich de queso - $26"
+    ],
+    "personalizaciones": [
+      "Leche: Entera | Az\u00facar: Normal | Extra: Crema batida"
+    ],
+    "total": 51.0,
+    "estado": "cancelado",
+    "pago": false,
+    "fecha_finalizacion": "2025-04-23 17:01:20"
+  },
+  {
+    "id": 1745452758,
+    "fecha": "2025-04-23 17:59:18",
+    "cliente": "Juan",
+    "items": [
+      "Chai - $20"
+    ],
+    "personalizaciones": [
+      "Leche: Sin leche | Az\u00facar: Normal | Extra: Caliente"
+    ],
+    "total": 20.0,
+    "estado": "cancelado",
+    "pago": false,
+    "fecha_finalizacion": "2025-04-23 17:59:59"
+  },
+  {
+    "id": 1745449640,
+    "fecha": "2025-04-23 17:07:20",
+    "cliente": "ana",
+    "items": [
+      "Cafe Latte - $25",
+      "Chai - $20"
+    ],
+    "personalizaciones": [
+      "Leche: Entera | Az\u00facar: Normal | Extra: Crema batida",
+      "Leche: Sin leche | Az\u00facar: Normal | Extra: Caliente"
+    ],
+    "total": 45.0,
+    "estado": "pagado",
+    "pago": false,
+    "fecha_finalizacion": "2025-04-23 18:00:14"
+  },
+  {
+    "id": 1745449670,
+    "fecha": "2025-04-23 17:07:50",
+    "cliente": "yami",
+    "items": [
+      "Pastel - $27",
+      "Sandwich de queso - $26"
+    ],
+    "personalizaciones": [],
+    "total": 53.0,
+    "estado": "pagado",
+    "pago": false,
+    "fecha_finalizacion": "2025-04-23 18:00:17"
+  },
+  {
+    "id": 1745450094,
+    "fecha": "2025-04-23 17:14:54",
+    "cliente": "Miguel",
+    "items": [
+      "Te Matcha - $27",
+      "Te Matcha - $27",
+      "Pan Frances - $35"
+    ],
+    "personalizaciones": [
+      "Leche: Sin leche | Az\u00facar: Normal | Extra: Caliente",
+      "Leche: Deslactosada | Az\u00facar: Normal | Extra: Caliente",
+      "Az\u00facar: Normal | Extra: Canela"
+    ],
+    "total": 89.0,
+    "estado": "pagado",
+    "pago": false,
+    "fecha_finalizacion": "2025-04-23 18:00:20"
+  },
+  {
+    "id": 1745450422,
+    "fecha": "2025-04-23 17:20:22",
+    "cliente": "Carlos",
+    "items": [
+      "Chai - $20",
+      "Cafe Latte - $25"
+    ],
+    "personalizaciones": [
+      "Leche: Sin leche | Az\u00facar: Normal | Extra: Caliente",
+      "Leche: Entera | Az\u00facar: Normal | Extra: Crema batida"
+    ],
+    "total": 45.0,
+    "estado": "pagado",
+    "pago": false,
+    "fecha_finalizacion": "2025-04-23 18:00:23"
+  }
+]

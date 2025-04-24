@@ -1,0 +1,81 @@
+[
+    {
+        "nombre":"Cafe Latte",
+        "precio":25,
+        "ingredientes":{"cafe":1, "leche":2,"azucar":2},
+        "imagen": "imagenes/CafeLatte.jpeg",
+        "personalizaciones": {
+            "leche":["Entera", "Deslactosada", "Almendra", "Coco"],
+            "azucar":["Normal", "Poca","Sin azucar","Stevia"],
+            "extras":["Crema batida", "Jarabe de chocolate"]
+        } 
+    },
+    {
+        "nombre":"Chai",
+        "precio":20,
+        "ingredientes":{"agua":2,"chai":1},
+        "imagen": "imagenes/chai.jpeg",
+        "personalizaciones":{
+            "leche":["Sin leche", "Entera", "Deslactosada","Almendra","Coco"],
+            "azucar":["Normal", "Poca","Sin azucar","Stevia"],
+            "extras":["Caliente","Frio"]
+        }
+    },
+    {
+      "nombre":"Cafe",
+        "precio":15,
+        "ingredientes":{"cafe":1,"agua":10},  
+        "imagen":"imagenes/Cafe.jpeg",
+        "personalizaciones":{
+            "azucar":["Normal", "Poca","Sin azucar","Stevia"]
+
+        }
+
+    },
+    {
+        "nombre":"Cafe americano",
+        "precio":20,
+        "ingredientes":{"cafe":2,"agua":2,"hielo":2},
+        "imagen":"imagenes/CafeAmericano.jpeg",
+        "personalizaciones":{
+            "azucar":["Normal", "Poca","Sin azucar","Stevia"]
+
+        }
+    },
+    {
+        "nombre":"Te Matcha",
+        "precio":27,
+        "ingredientes":{"agua":2,"matcha":1},
+        "imagen":"imagenes/Matcha.jpeg",
+        "personalizaciones":{
+            "leche":["Sin leche", "Entera", "Deslactosada","Almendra","Coco"],
+            "azucar":["Normal", "Poca","Sin azucar","Stevia"],
+            "extras":["Caliente","Frio"]
+        }
+
+    },
+    {
+        "nombre":"Pan Frances",
+        "precio":35,
+        "ingredientes":{"pan":2,"huevos":1,"leche":1,"canela":1,"azucar":2},
+        "imagen":"imagenes/PanFrances.jpeg",
+        "personalizaciones":{
+            "azucar":["Normal", "Poca","Sin azucar","Stevia"],
+            "extras":["Canela","Frutas","Jarabe","Chocolate"]
+        }
+    },
+    {
+        "nombre":"Sandwich de queso",
+        "precio":26,
+        "ingredientes":{"pan":2,"queso":1,"lechuga":1,"jitomate":1,"jamon":2},
+        "imagen":"imagenes/SandwichDeQueso.jpeg",
+        "personalizaciones":{}
+    },
+    {
+        "nombre":"Pastel",
+        "precio":27,
+        "ingredientes":{"harina":2,"leche":1,"azucar":1,"huevos":1,"vainilla":1},
+        "imagen":"imagenes/Pastel.jpeg",
+        "personalizaciones":{}
+    }
+]

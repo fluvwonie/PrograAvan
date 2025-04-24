@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Fati",
+        "username": "fati25",
+        "rol": "admin",
+        "password": "adminpass"
+    },
+    {
+        "nombre": "Cristopher",
+        "username": "adms56",
+        "rol":"admin",
+        "password":"adms234"
+    },
+    {
+        "nombre": "Juan Pérez",
+        "username": "juan123",
+        "rol": "empleado",
+        "password": "password123"
+    },
+    {
+        "nombre": "Ana Gomez",
+        "username": "ann23",
+        "rol": "empleado",
+        "password": "emp5866"
+    }
+]
